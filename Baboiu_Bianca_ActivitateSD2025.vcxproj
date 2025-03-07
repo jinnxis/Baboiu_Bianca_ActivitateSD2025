@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="declarareStruct.c" />
     <ClCompile Include="seminar1.c" />
     <ClCompile Include="seminar2.c" />
   </ItemGroup>
