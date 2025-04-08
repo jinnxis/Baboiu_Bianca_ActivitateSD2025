@@ -1,0 +1,10 @@
+1;Biblioteca Nationala;2500;103.5
+2;Biblioteca Judeteana;1400;60.0
+3;Biblioteca Comunala;900;20.0
+4;Biblioteca Universitara;1800;45.0
+5;Biblioteca Liceului;700;15.0
+6;Biblioteca Oraseneasca;1600;30.5
+7;Biblioteca Metropolitana;2200;80.0
+8;Biblioteca Copiilor;500;10.0
+9;Biblioteca Satului;350;5.0
+10;Biblioteca Virtuala;3000;2.0
